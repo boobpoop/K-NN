@@ -1,3 +1,6 @@
+# flow chart
+![dfas](https://github.com/boobpoop/K-NN/blob/master/knn/image/flow_graph.png)
+
 # data visualize1
 ![rew](https://github.com/boobpoop/K-NN/blob/master/knn/image/data_visualize1.png)
 
@@ -7,5 +10,3 @@
 # data visualize3
 ![dfas](https://github.com/boobpoop/K-NN/blob/master/knn/image/data_visualize3.png)
 
-# flow graph
-![dfas](https://github.com/boobpoop/K-NN/blob/master/knn/image/flow_graph.png)
