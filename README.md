@@ -1,5 +1,5 @@
 # flow chart
-![dfas](https://github.com/boobpoop/K-NN/blob/master/knn/image/flow_graph.png)
+![dfas](https://github.com/boobpoop/K-NN/blob/master/knn/image/flow_chart.png)
 
 # data visualize1
 ![rew](https://github.com/boobpoop/K-NN/blob/master/knn/image/data_visualize1.png)
