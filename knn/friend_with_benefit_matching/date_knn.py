@@ -76,7 +76,7 @@ def prediction(path):
 
 def save_image(train_data, labels):
     data1, data2, data3 = process_data_labels(train_data, labels)
-    plt.switch_backend("PDF")
+    plt.switch_backend("agg")
     fig = plt.figure(figsize = [19.2, 4.8])
 
     ax1 = fig.add_subplot(131)
@@ -103,7 +103,7 @@ def save_image(train_data, labels):
     ax3.set_ylabel("Game time percent")
     plt.legend()
 
-    plt.savefig('_1_2.pdf')
+    plt.savefig('data_visualize.pdf')
     plt.close()
 
 
