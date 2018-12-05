@@ -103,7 +103,7 @@ def save_image(train_data, labels):
     ax3.set_ylabel("Game time percent")
     plt.legend()
 
-    plt.savefig('data_visualize.pdf')
+    plt.savefig('data_visualize.png')
     plt.close()
 
 
