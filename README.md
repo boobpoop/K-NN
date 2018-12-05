@@ -10,3 +10,6 @@
 # data visualize3
 ![dfas](https://github.com/boobpoop/K-NN/blob/master/knn/image/data_visualize3.png)
 
+
+# data visualize3
+![dfas](https://github.com/boobpoop/K-NN/blob/master/knn/image/data_visualize.pdf)
